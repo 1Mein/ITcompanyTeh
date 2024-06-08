@@ -2,8 +2,6 @@
 
 <code>cd ITcompanyTeh</code>
 
-<code>php artisan storage:link</code>
-
 <code>npm install</code>
 
 <code>npm run build</code>
@@ -17,6 +15,8 @@
 <code>php artisan migrate:fresh --seed</code>
 
 <code>php artisan key:generate</code>
+
+<code>php artisan storage:link</code>
 
 <code>php artisan serve</code>
 
