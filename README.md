@@ -1,19 +1,18 @@
-<code>
-git clone https://github.com/1Mein/ITcompanyTeh
+<code>git clone https://github.com/1Mein/ITcompanyTeh</code>
 
-cd ITcompanyTeh
+<code>cd ITcompanyTeh</code>
 
-php artisan storage:link
+<code>php artisan storage:link</code>
 
-npm install
+<code>npm install</code>
 
-npm run build
+<code>npm run build</code>
 
-composer install
+<code>composer install</code>
 
-php artisan migrate:fresh --seed
+<code>php artisan migrate:fresh --seed</code>
 
-php artisan serve
-</code>
+<code>php artisan serve</code>
+
 <br><br><br>
 database with sqllite
