@@ -20,6 +20,30 @@
 
 <code>php artisan serve</code>
 
-
+<hr>
+by default server will on localhost:8000 
+<hr>
 <br><br><br>
-database with sqllite
+
+database with sqlite
+
+credentials for admin panel as default
+login: admin
+password: admin 
+
+
+api routes:
+/api/genres
+/api/genres/{id}
+/api/films
+/api/films/{id}
+
+pagination with 
+?page={page}
+
+images in 
+/storage/{image_path}
+
+
+
+
