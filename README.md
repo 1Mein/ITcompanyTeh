@@ -25,23 +25,23 @@ by default server will on localhost:8000
 <hr>
 <br><br><br>
 
-database with sqlite
+database with sqlite<br><br>
 
-credentials for admin panel as default
-login: admin
+credentials for admin panel as default<br>
+login: admin<br>
 password: admin 
 
-
-api routes:
-/api/genres
-/api/genres/{id}
-/api/films
-/api/films/{id}
-
-pagination with 
+<br><br>
+api routes:<br>
+/api/genres<br>
+/api/genres/{id}<br>
+/api/films<br>
+/api/films/{id}<br>
+<br><br>
+pagination with <br>
 ?page={page}
 
-images in 
+images in <br>
 /storage/{image_path}
 
 
