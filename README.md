@@ -1,3 +1,4 @@
+<code>
 git clone https://github.com/1Mein/ITcompanyTeh
 
 cd ITcompanyTeh
@@ -13,6 +14,6 @@ composer install
 php artisan migrate:fresh --seed
 
 php artisan serve
-
-<br>
+</code>
+<br><br><br>
 database with sqllite
