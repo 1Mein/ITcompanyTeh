@@ -10,9 +10,14 @@
 
 <code>composer install</code>
 
+<code>copy .env.example .env</code>
+
+<code>type nul > database/database.sqlite</code>
+
 <code>php artisan migrate:fresh --seed</code>
 
 <code>php artisan serve</code>
+
 
 <br><br><br>
 database with sqllite
