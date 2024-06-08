@@ -16,6 +16,8 @@
 
 <code>php artisan migrate:fresh --seed</code>
 
+<code>php artisan key:generate</code>
+
 <code>php artisan serve</code>
 
 
