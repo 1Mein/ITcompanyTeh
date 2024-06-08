@@ -1,3 +1,5 @@
+git clone https://github.com/1Mein/ITcompanyTeh
+
 php artisan storage:link
 
 npm install
